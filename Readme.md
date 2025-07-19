@@ -1,4 +1,4 @@
-# AIVA Prompt Improver: Local-First AI Prompt Enhancement Dashbo
+# AIVA Prompt Improver: Local-First AI Prompt Enhancement Dashboard
 
 ![Dashboard Screenshot](1.png)
 
